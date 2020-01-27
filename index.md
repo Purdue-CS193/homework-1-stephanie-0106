@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# Stephanie's First CS193 Homework
+## Header 2
+### Header 3
+
+- CS193 is taught by students who already expirienced struggles that I would face.
+- This class teaches me basic Java stuff that I need to know for every CS class.
+- Giving very useful informations that I would use through out my CS career.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
